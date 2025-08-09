@@ -35,14 +35,3 @@
     ```
     http://localhost:8501
     ```
-
----
-
-##  Project Structure
-
-├── movies.py # Streamlit app for the recommendation interface
-├── movie-recommended-system.ipynb # Core logic: TF-IDF vectorization + cosine similarity
-├── data/
-│ ├── movies.csv # Movie metadata (titles, overviews, genres, cast, keywords, directors)
-│ └── ... # Additional datasets if required
-└── README.md # Project overview
