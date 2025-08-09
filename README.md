@@ -39,6 +39,7 @@
 ---
 
 ##  Project Structure
+
 ├── movies.py # Streamlit app for the recommendation interface
 ├── movie-recommended-system.ipynb # Core logic: TF-IDF vectorization + cosine similarity
 ├── data/
